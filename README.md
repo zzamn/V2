@@ -5,4 +5,4 @@
 
 3) V2 also needs a mysql database, so i've added an init.sql in the 'db' directory :P
 
-Activate by doing node server/server.js  Yep. THis means that you gtotta activate he server from the root of this directory :)
+4) Activate by doing node server/server.js  Yep. THis means that you gtotta activate he server from the root of this directory :)
